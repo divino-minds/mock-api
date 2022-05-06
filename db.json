@@ -1,14 +1,7 @@
 {
-  "id": 3143978,
   "cpf": "89119398034",
-  "action": "verification",
-  "external_id": null,
   "status": "ok",
-  "created_at": "2022-05-04T17:32:15",
   "match_prediction": "match",
   "confidence": "low",
   "success": true,
-  "fraud_risk": "low",
-  "flag_id": null,
-  "flag_type": null
 }
