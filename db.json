@@ -2,6 +2,5 @@
   "cpf": "89119398034",
   "status": "ok",
   "match_prediction": "match",
-  "confidence": "low",
-  "success": true
+  "confidence": "low"
 }
