@@ -1,31 +1,14 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "id": 3143978,
+  "cpf": "89119398034",
+  "action": "verification",
+  "external_id": null,
+  "status": "ok",
+  "created_at": "2022-05-04T17:32:15",
+  "match_prediction": "match",
+  "confidence": "low",
+  "success": true,
+  "fraud_risk": "low",
+  "flag_id": null,
+  "flag_type": null
 }
